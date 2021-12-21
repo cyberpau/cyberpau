@@ -1,24 +1,10 @@
-<!--
-**cyberpau/cyberpau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Hello there! Thanks for visiting the code of my readme. If you love my portfolio, I would really appreciate you to follow me in github and my other social media accounts @cyberpau -->
 
 <p align='right'>
     <a href="https://cyberpau.com/" aria-label="John Paulo Mataac's Website">Personal Website</a> |
     <a href="https://www.linkedin.com/in/cyberpau/" aria-label="John Paulo Mataac's LinkedIn Profile">LinkedIn</a> | 
     <a href="https://www.twitter.com/cyberpau" aria-label="John Paulo Mataac's Twitter Profile Link">Twitter</a> |
-    <a href="https://github.com/cyberpau/" aria-label="John Paulo Mataac's Git
-    Hub Portfolio">GitHub</a>
+    <a href="https://github.com/cyberpau/" aria-label="John Paulo Mataac's GitHub Portfolio">GitHub</a>
 </p>
 
 # About Me 👋
@@ -37,39 +23,19 @@ Hobbies includes reading Manga / Manhua, investing on startups, attending tech w
 
 # Tech Stack ⚡
 
-I consider myself as an E-Shaped individual (concept similar to T-shaped employees):
-
-| Skill | Level |
-|-------|-------|
-| Back-end (Java, Node.JS) | ⬛️⬛️⬛️⬛️⬛️ |
-| Front-end (HTML, JavaScript)| ⬛️ |
-| Cloud (AWS, Azure, GCP) | ⬛️⬛️⬛️ |
-| Project Management | ⬛️ |
-| Database and IT Operations | ⬛️⬛️⬛️⬛️⬛️ |
-<!-- 
-<BR>
-
-# Social Media Platforms 🔗
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyberpau/)](https://www.linkedin.com/in/cyberpau/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyberpau)](https://twitter.com/cyberpau)
-
-# Career Highlights 💡
-For my work experience, 
-- Developed and maintained Point-of-Sale (POS) products, as well as Subject Matter Expert of CRM and Loyalty Manager (LM) for large retail stores in America.
-- Maintained and support platform components and microservices of a startup Telecommunications company in the Philippines
-- Developed several chatbots for
-    - Lesson Learnt Management (Java + Vaadin + SQL Server)
-    - Employee / HR Assistance (Google Dialogflow + Node.JS)
-    - Booking / Reservation agent (Microsoft Power Platform)
-- Contributes to Open-source projects (Kubernetes, Mozilla Developer Network)
-- Active member of PH Tech Communities
- -->
+As much as I'd like to specialize at one field, I'm not lucky enough to land the same role on each of my employment. However, I'm still thankful to have a broad and connected range of IT skills to backup my passion for technology and digital innovations.
 
 
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+| Category | Skill | Enjoyment Level |
+|----------|-------|------------|
+| Programming Languages: |	Backend: Java EE, JavaScript (Node.JS), Shell <BR> Front-end: VB.NET, WPF, HTML/CSS | 💗💗💗💗💗 <BR> 💗💗💗 |
+| Methodologies: |			DevOps <BR> Agile, Waterfall, Project Management, Test-driven Development (TDD) | 💗💗💗 <BR> 💗💗 |
+| Databases: |			Microsoft SQL Server 2012 - 2016, MySQL, MongoDB | 💗💗💗💗💗 |
+| Containers and OS: |		Docker, Kubernetes, CentOS, Ubuntu, Windows Server 2010 - 2016 | 💗💗💗💗 |
+| Others: |				AWS, Google Cloud (GCP), Azure Cloud, Microsoft PowerApps, Github <BR> Ansible, Helm, Kafka, Chef, XSLT <BR> Elasticsearch, Logstash, Kibana, Kafka, Jenkins, VSTS| 💗💗💗💗💗 <BR> 💗 <BR> 💗💗💗 |
 
-</div><df-messenger
-  intent="WELCOME"
-  chat-title="cyberpau.com"
-  agent-id="0a01a26c-cae4-47c8-a448-60445620680c"
-  language-code="en"
-></df-messenger></div>
+
+
+# Certifications 🌱
+
+I have created a completely separate repository for all of my trainings, learning activities and certifications [[Click here]](https://github.com/cyberpau/seminars)
