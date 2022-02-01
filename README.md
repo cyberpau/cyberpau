@@ -1,15 +1,6 @@
-<!--Hello there! Thanks for visiting the code of my readme. If you love my portfolio, I would really appreciate you to follow me in github and my other social media accounts @cyberpau -->
-
-<p align='right'>
-    <a href="https://cyberpau.com/" aria-label="John Paulo Mataac's Website">Personal Website</a> |
-    <a href="https://www.linkedin.com/in/cyberpau/" aria-label="John Paulo Mataac's LinkedIn Profile">LinkedIn</a> | 
-    <a href="https://www.twitter.com/cyberpau" aria-label="John Paulo Mataac's Twitter Profile Link">Twitter</a> |
-    <a href="https://github.com/cyberpau/" aria-label="John Paulo Mataac's GitHub Portfolio">GitHub</a>
-</p>
-
 # About Me 👋
 
-My name is John Paulo Mataac, and I'm a self-thought full stack developer with passion for Digital Innovations, DevSecOps, Tech Communities and Startups.
+My name is [John Paulo Mataac](https://www.linkedin.com/in/cyberpau/), and I'm a self-thought full stack developer with passion for Digital Innovations, DevSecOps, Tech Communities and Startups.
 
 My favorite word is * **FREE** *, that's why I love anything that's free, including:
 - Open-source applications
@@ -26,7 +17,7 @@ Hobbies includes reading Manga / Manhua, investing on startups, attending tech w
 As much as I'd like to specialize at one field, I'm not lucky enough to land the same role on each of my employment. However, I'm still thankful to have a broad and connected range of IT skills to backup my passion for technology and digital innovations.
 
 
-| Category | Skill | Enjoyment Level |
+| Category | Skill | Excitement Level |
 |----------|-------|------------|
 | Programming Languages: |	Backend: Java EE, JavaScript (Node.JS), Shell <BR> Front-end: VB.NET, WPF, HTML/CSS | 💗💗💗💗💗 <BR> 💗💗💗 |
 | Methodologies: |			DevOps <BR> Agile, Waterfall, Project Management, Test-driven Development (TDD) | 💗💗💗 <BR> 💗💗 |
