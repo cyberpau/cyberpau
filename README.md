@@ -20,10 +20,10 @@ As much as I'd like to specialize at one field, I'm not lucky enough to land the
 | Category | Skill | Excitement Level |
 |----------|-------|------------|
 | Programming Languages: |	Backend: Java EE, JavaScript (Node.JS), Shell <BR> Front-end: VB.NET, WPF, HTML/CSS | 💗💗💗💗💗 <BR> 💗💗💗 |
-| Methodologies: |			DevOps <BR> Agile, Waterfall, Project Management, Test-driven Development (TDD) | 💗💗💗 <BR> 💗💗 |
-| Databases: |			Microsoft SQL Server 2012 - 2016, MySQL, MongoDB | 💗💗💗💗💗 |
+| Methodologies: |			DevOps <BR> Agile, Waterfall, Project Management, Test-driven Development (TDD) | 💗💗💗💗 <BR> 💗💗 |
+| Databases: |			Microsoft SQL Server 2012 - 2016, MySQL, MongoDB | 💗💗💗💗 |
 | Containers and OS: |		Docker, Kubernetes, CentOS, Ubuntu, Windows Server 2010 - 2016 | 💗💗💗💗 |
-| Others: |				AWS, Google Cloud (GCP), Azure Cloud, Microsoft PowerApps, Github <BR> Ansible, Helm, Kafka, Chef, XSLT <BR> Elasticsearch, Logstash, Kibana, Kafka, Jenkins, VSTS| 💗💗💗💗💗 <BR> 💗 <BR> 💗💗💗 |
+| Others: |				AWS, Google Cloud (GCP), Azure Cloud <BR> Microsoft PowerApps, Github <BR> Ansible, Helm, Kafka, Chef, XSLT <BR> Elasticsearch, Logstash, Kibana, Kafka, Jenkins, VSTS| 💗💗💗 <BR>💗💗💗💗💗 <BR> 💗 <BR> 💗💗💗 |
 
 
 
