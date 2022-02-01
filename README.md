@@ -5,9 +5,9 @@ My name is [John Paulo Mataac](https://www.linkedin.com/in/cyberpau/), and I'm a
 My favorite word is * **FREE** *, that's why I love anything that's free, including:
 - Open-source applications
 - Free seminars / trainings / certifications
-- Freebies / Swags
-- Free discounts / vouchers / coupons
-- **FREE**dom to innovate and express ideas and thoughts.
+- Freebies / Swags from events and tech communities
+- Free discounts and online vouchers
+- **FREE**dom to create, innovate and change the world 🌍
 
 Hobbies includes reading Manga / Manhua, investing on startups, attending tech webinars and meetups, watching movies / animes (post-apocalyptic, supernatural, adventure genre)
 
