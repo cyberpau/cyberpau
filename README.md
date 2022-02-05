@@ -7,7 +7,7 @@ My favorite word is * **FREE** *, that's why I love anything that's free, includ
 - Free seminars / trainings / certifications
 - Freebies / Swags from events and tech communities
 - Free discounts and online vouchers
-- **FREE**dom to create, innovate and change the world 🌍
+- Freedom to create, innovate and change the world 🌍
 
 Hobbies includes reading Manga / Manhua, investing on startups, stocks and NFTs, attending webinars and meetups, learning new techs, watching movies / animes (post-apocalyptic, supernatural, adventure genre)
 
