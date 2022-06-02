@@ -1,6 +1,6 @@
 # About Me 👋
 
-My name is [John Paulo Mataac](https://www.linkedin.com/in/cyberpau/), and I'm a self-thought full stack developer with passion for Digital Innovations, DevSecOps, Tech Communities and Startups.
+My name is [John Paulo Mataac](https://www.linkedin.com/in/cyberpau/), and I'm a self-thought full stack developer with passion for Digital Innovations, Opensource / Cloud Native, Low-Code Development, Tech Communities and Startups.
 
 My favorite word is * **FREE** *, that's why I love anything that's free, including:
 - Open-source applications
